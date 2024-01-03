@@ -1,2 +1,2 @@
 # Projects
-A place where I store my coding projects
+A repository for all my coding projects.
